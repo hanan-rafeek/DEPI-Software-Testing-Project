@@ -24,7 +24,7 @@ All test cases, execution results, and bug reports are documented in the shared 
 ## Bug Screenshots
 All screenshots used as evidence for reported bugs are stored in the shared Google Drive folder.
 
-[Open Bug Screenshots](PUT_GOOGLE_DRIVE_LINK_HERE)
+[Open Bug Screenshots](https://drive.google.com/drive/folders/1QaNpf8m__S7_2IL7WXssPc3HQGIztrWT?usp=sharing)
 
 ## Project Goal
 Identify and document 5 bugs in the Buggy Cars Rating website using professional bug reports.
