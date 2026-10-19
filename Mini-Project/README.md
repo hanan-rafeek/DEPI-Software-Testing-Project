@@ -16,6 +16,10 @@ Buggy Cars Rating
 ## Testing Type
 Manual Testing
 
+### Tested Application
+The web application under test can be accessed directly via the following link:
+[Visit Website / Open Application](https://buggy.justtestit.org/)
+
 ## Test Cases & Bug Reports
 All test cases, execution results, and bug reports are documented in the shared Google Sheet.
 
